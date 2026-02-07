@@ -1,0 +1,5 @@
+LT,MH001,Lap Trinh Dart,3,8.0,9.0
+TH,MH002,Lap Trinh Web,4,7.5,8.0,8.5
+DA,MH003,Do An Tot Nghiep,10,9.0,9.5
+LT,MH004,Co So Du Lieu,3,6.0,7.0
+TH,MH005,Mang May Tinh,3,8.0,7.0,9.0
